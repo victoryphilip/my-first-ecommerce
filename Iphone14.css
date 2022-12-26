@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+h3{
+    color: white;
+    margin-left: 40px;
+}
+
+hr{
+    color: white;
+}
+
+h1>b{
+    color: white;
+    margin-left: 40px;
+}
+
+h2{
+    color: white;
+    margin-left: 40px;
+}
+
+h1{
+    margin-left: 40px;
+}
+
+.page{
+    border-right: 70px;
+}
