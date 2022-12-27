@@ -1,7 +1,10 @@
 body{
-    background-color: rgb(226, 204, 247);
-    margin-top: 100px;
+    background-color: #f2eae3
 }
+/* 
+body{
+    margin-top: 100px;
+} */
 
 form{
     width: 500px;
@@ -38,6 +41,10 @@ input{
 }
 
 #contact{
-    background-color:rgb(224, 205, 241);
+    background-color: #f2eae3
+    
+}
+
+#contact{
     margin: 0;
 }

@@ -1,0 +1,41 @@
+body{
+    background-color: #f1f1f2;
+}
+.home-info-grey {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #f1f1f2
+}
+
+.home-info-grey h2 {
+    color: var(--black);
+    font-weight: 700;
+    font-size: 16px;
+    font-style: italic
+}
+
+.home-info-grey p {
+    color: #626163;
+    font-weight: 500;
+    font-size: 16px
+}
+
+.drop-cap {
+    margin-right: 25px;
+    float: left;
+    text-align: center;
+    line-height: 1;
+    font-size: 50px
+}
+
+.drop-cap-letter {
+    color: #ff8700;
+    font-size: 90px;
+    font-weight: 700
+}
+
+.drop-cap-text {
+    color: #231833;
+    font-size: 34px;
+    font-weight: 500
+}
